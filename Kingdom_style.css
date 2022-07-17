@@ -1,0 +1,127 @@
+body
+{
+  background-color: white;
+}
+p ,h1
+{
+  text-transform: capitalize;
+}
+.container
+{
+  
+  margin: auto;
+  width: 320px;
+  
+}
+.header .navbar
+{
+  height: 90px;
+  border-radius: 7px;
+  background-color: #ddd;
+  overflow: hidden;
+}
+.header .navbar ul 
+{
+  color: 111;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 0;
+  
+}
+.navbar img
+{
+  margin-left: 16px;
+  float: left
+}
+.header .navbar ul li
+{
+  float: left;padding: 10px;
+}
+.square
+{
+
+  margin-top: 70px;
+  padding: 30px;
+  background-color: #001c40;
+  border-radius: 10px;
+}
+.main
+{
+  
+  
+  margin-top: 70px; 
+  margin-bottom: 70px;
+}
+.main h1
+{
+
+  font-family:  Arial;
+  color: #001c40;
+  text-align: center;
+}
+.main h1 span
+{
+  color: #fab006;
+}
+.main p
+{
+  text-align: center;
+  color: gray;
+  margin-top: 60px;
+}
+.boton button
+{
+  font-size: 14px;
+  color: #001c40;
+  border-style: none;
+  background-color: white;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  border-bottom: 3px solid #001c40;
+  border-top: 1px solid #001c40;
+  border-right: 1px solid #001c40;
+  border-left: 1px solid #001c40;
+  width: 300px;
+  padding: 15px;
+  border-radius: 7px;
+  
+}
+.boton2 button
+{
+  font-size: 14px;
+  color: #001c40;
+  border-style: none;
+  background-color: #fab006;
+  margin-left: 10px;
+  margin-bottom: 30px;
+  border-bottom: 3px solid #001c40;
+  border-top: 1px solid #001c40;
+  border-right: 1px solid #001c40;
+  border-left: 1px solid #001c40;
+  width: 300px;
+  padding: 15px;
+  border-radius: 7px;
+}
+.update
+{
+  background-color: #ddd8;
+  
+  
+}
+.update .container h1, h4, p2  
+ {
+  font-family:  Arial;
+  color: #001c40;
+ }
+
+ .update .container .Latest p
+ 
+ {
+ color: #1374c7;
+ margin-top: 70px;
+ font-family: Consolas,Arial;
+ letter-spacing: 5px;
+ font-weight: bold;
+ 
+ 
+ }
